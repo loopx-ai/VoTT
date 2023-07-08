@@ -118,7 +118,7 @@
         "enzyme-adapter-react-16": "^1.7.0",
         "foreman": "^3.0.1",
         "jest-enzyme": "^7.0.1",
-        "jquery": "^3.3.1",
+        "jquery": "^3.5.0",
         "mock-fs": "^4.13.0",
         "node-sass": "^4.14.1",
         "popper.js": "^1.14.6",
